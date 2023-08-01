@@ -2,7 +2,7 @@
 
 <div align=center><h3>🍀 Introduction</h3></div>
 <div align=center>
-  안녕하세요 :> 성장중인 백엔드 개발자 신다온입니다. <br>
+  안녕하세요 :> 성장중인 백엔드 개발자 신다온입니다. <br><br>
 </div>
 
 <div align=center><h3>🍀 currently learning</h3></div>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/vscode-#007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
@@ -32,6 +32,6 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
+  <br><br><br><br><br>
 </div>
 
