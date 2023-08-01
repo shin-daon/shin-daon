@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome%20to%20my%20github%20✨&fontSize=47)
 
-#### 🍀 I'm currently learning
+<div align=center><h3>🍀 I'm currently learning</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <br>
@@ -28,3 +28,5 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-daon&layout=compact)](https://github.com/shin-daon/github-readme-stats)
